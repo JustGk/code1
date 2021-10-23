@@ -69,9 +69,9 @@ int main()
     boundryfill(205,55,0,0);
     boundryfill(105,155,0,0);
     boundryfill(155,205,0,0);
-	boundryfill(155,105,0,0);
-	boundryfill(55,205,0,0);
-	boundryfill(205,155,0,0);
+    boundryfill(155,105,0,0);
+    boundryfill(55,205,0,0);
+    boundryfill(205,155,0,0);
 	
 	 	   
     
